@@ -1,0 +1,7 @@
+ken Student
+ken Undergrad
+hernan Professor
+hernan Lecturer
+jake Clown
+Joe Undergrad
+John Grad
